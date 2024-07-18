@@ -27,7 +27,7 @@
         </section>
         <aside>
             <h2>Sidebar</h2>
-            <p>This is a sidebar updated. welcome all</p>
+            <p>This is a sidebar updated. welcome alll</p>
         </aside>
     </main>
     <footer>
